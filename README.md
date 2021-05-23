@@ -1,0 +1,2 @@
+# Coursera-TensorFlow-Developer-Course
+This contains programming exercises from all courses within the Coursera DeepLearning.AI TensorFlow Developer Professional Certificatei: (i) Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning; (ii) Convolutional Neural Networks in TensorFlow; (iii)  Natural Language Processing in TensorFlow; (iv)  Sequences, Time Series and Prediction
